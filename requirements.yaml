@@ -1,0 +1,15 @@
+packages:
+  "framer-motion": "For fluid, cyberpunk-style UI animations and transitions"
+  "recharts": "For rendering beautiful dashboard analytics and trends"
+  "clsx": "For conditional class names"
+  "tailwind-merge": "For merging tailwind classes safely"
+  "date-fns": "For formatting dates in the history and charts"
+
+images:
+  - path: "artifacts/fake-review-detector/public/images/cyber-grid.png"
+    description: "A dark, subtle high-tech cyberpunk grid background with faint neon blue and purple glowing nodes at intersections, abstract futuristic data flow aesthetic, very dark overall"
+    aspect_ratio: "16:9"
+
+notes:
+  - Importing React Query hooks directly from @workspace/api-client-react as specified
+  - Assuming lucide-react is installed for icons
